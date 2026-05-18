@@ -1,0 +1,25 @@
+Here are all the available routes in the current app:
+
+Public
+
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=showcase
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=startups
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=startups/show
+Founder (account)
+
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=account/register
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=account/login
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=account/startups
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=account/logout
+Student
+
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=student/register
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=student/login
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=student/submit
+Admin
+
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=admin/login
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=admin/startups
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=admin/users
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=admin/comments
+http://localhost/ContentManagementSystem/35%20-%20cms/12%20-%20Part%2012/index.php?route=admin/logout
